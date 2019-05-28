@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Add/Edit Records</string>
+    <string-array name="Input_Placeholder">
+        <item>Input Placeholder</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+    <string-array name="Food">
+        <item>Food</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+    <string-array name="DRR">
+        <item>DRR</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+    <string-array name="STA_Kapoloma">
+        <item>STA Kapoloma</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+    <string-array name="Nainunje">
+        <item>Nainunje(Makata 2)</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+    <string-array name="Amarathus">
+        <item>Amarathus</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+    <string-array name="Community">
+        <item>Community(Parents)</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+</resources>
