@@ -35,6 +35,8 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
         Spinner spinner2=(Spinner)findViewById(R.id.type);
         ArrayAdapter<CharSequence>adapter2=ArrayAdapter.createFromResource(this,R.array.Food,android.R.layout.simple_spinner_item);
         adapter2.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -50,6 +52,9 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
+
         Spinner spinner3=(Spinner)findViewById(R.id.program);
         ArrayAdapter<CharSequence>adapter3=ArrayAdapter.createFromResource(this,R.array.DRR,android.R.layout.simple_spinner_item);
         adapter3.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -65,6 +70,8 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
         Spinner spinner4=(Spinner)findViewById(R.id.ta);
         ArrayAdapter<CharSequence>adapter4=ArrayAdapter.createFromResource(this,R.array.STA_Kapoloma,android.R.layout.simple_spinner_item);
         adapter4.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
@@ -80,6 +87,9 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
+
         Spinner spinner5=(Spinner)findViewById(R.id.fdpName);
         ArrayAdapter<CharSequence>adapter5=ArrayAdapter.createFromResource(this,R.array.Nainunje,android.R.layout.simple_spinner_item);
         adapter5.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
